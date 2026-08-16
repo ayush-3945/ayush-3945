@@ -1,13 +1,14 @@
+<!-- Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Kumar%20Pandey&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20Builder&descSize=18&descAlignY=55&descColor=c084fc" />
+
 <div align="center">
 
-  <!-- Animated Typing Banner -->
+  <!-- Animated Typing -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=818CF8&center=true&vcenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Ayush+Kumar+Pandey;Full-Stack+MERN+Developer;AI-Powered+Systems+Builder;Turning+Ideas+Into+Products+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=818CF8&center=true&vcenter=true&width=600&lines=Hey+%F0%9F%91%8B+Welcome+to+my+GitHub;Full-Stack+MERN+Developer;AI-Powered+Systems+Builder;Turning+Ideas+Into+Products+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <strong>Crafting intelligent Full-Stack Web Apps powered by AI & Modern Tech 🧠</strong>
-  </p>
+  <br/>
 
   <!-- Visitor Badge -->
   <img src="https://komarev.com/ghpvc/?username=ayush-3945&color=818cf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
@@ -16,16 +17,16 @@
 
   <!-- Social Badges -->
   <a href="https://linkedin.com/in/ayush-kumar-pandey-a6880532b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ayush-3945" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/pandey_ayush_070" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://x.com/PandeyAyush2304" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
 </div>
@@ -38,6 +39,14 @@
 - 🌱 Learning **System Design, Machine Learning & Cloud Architecture**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Gemini AI, REST APIs**
 - ⚡ Fun fact: **I mass-produce ideas and ship them as real products 🚀**
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayush-3945&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
 
 ---
 
@@ -103,6 +112,24 @@
 </div>
 
 ---
+
+### 📊 Contribution Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-3945&theme=tokyo-night&hide_border=true&area=true&custom_title=Ayush's%20Contribution%20Graph" width="98%" />
+</div>
+
+---
+
+### 🐍 Watch the Snake Eat My Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ayush-3945/ayush-3945/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 <p align="center">
   <i>"I don't just write code — I build products that solve real problems."</i> ✨
