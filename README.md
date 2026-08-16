@@ -1,18 +1,109 @@
-# 💫 About Me:
-🔭 Currently working on Full-Stack Web Applications & AI-powered Projects<br>🌱 Currently learning Advanced Machine Learning, System Design, and Cloud Technologies<br>👯 Looking to collaborate on Open Source, MERN Stack, AI/ML, and Developer Tools<br>🤝 Looking for help with Scalable Architecture and DevOps Best Practices<br>💬 Ask me about Java, JavaScript, Python, React, Node.js, Express, MongoDB, SQL, Git, and REST APIs<br>⚡ Fun fact: I enjoy turning ideas into real-world applications and continuously learning new technologies.
+<div align="center">
 
+  <!-- Animated Typing Banner -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=818CF8&center=true&vcenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Ayush+Kumar+Pandey;Full-Stack+MERN+Developer;AI-Powered+Systems+Builder;Turning+Ideas+Into+Products+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushpandey070) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ayush-kumar-pandey-a6880532b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/PandeyAyush2304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushpandey23042006@gmail.com) 
+  <p align="center">
+    <strong>Crafting intelligent Full-Stack Web Apps powered by AI & Modern Tech 🧠</strong>
+  </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ayush-3945&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ayush-3945&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayush-3945&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <!-- Visitor Badge -->
+  <img src="https://komarev.com/ghpvc/?username=ayush-3945&color=818cf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
+
+  <br/><br/>
+
+  <!-- Social Badges -->
+  <a href="https://linkedin.com/in/ayush-kumar-pandey-a6880532b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ayush-3945" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/pandey_ayush_070" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/PandeyAyush2304" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ayush-3945&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+- 🔭 Currently building **SmartIssue AI** — an Autonomous Issue Routing Platform powered by Google Gemini
+- 🌱 Learning **System Design, Machine Learning & Cloud Architecture**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Gemini AI, REST APIs**
+- ⚡ Fun fact: **I mass-produce ideas and ship them as real products 🚀**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20AI-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</p>
+
+---
+
+### ⚡ Featured Project
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><b>🤖 SmartIssue AI</b></h3>
+      <p align="center">
+        Enterprise-grade Autonomous Issue Classification & Real-Time Resolution Platform powered by <b>Google Gemini 1.5 Flash</b>.
+      </p>
+      <p align="center">
+        <a href="https://github.com/ayush-3945/ai-smart-issue-routing">
+          <img src="https://img.shields.io/badge/View_Repository-818CF8?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <ul>
+        <li>⚡ AI Auto-Categorization (IT, HR, Finance, Ops)</li>
+        <li>📊 Live Recharts Analytics Dashboard</li>
+        <li>📥 1-Click CSV Report Exporter</li>
+        <li>🎨 Glassmorphic Dark & Light Theme</li>
+        <li>🔐 JWT + Refresh Token Security</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-3945&show_icons=true&theme=tokyonight&hide_border=true&title_color=818cf8&icon_color=c084fc" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-3945&theme=tokyonight&hide_border=true&ring=818cf8&fire=c084fc" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-3945&layout=compact&theme=tokyonight&hide_border=true&title_color=818cf8" width="49%" />
+</div>
+
+---
+
+<p align="center">
+  <i>"I don't just write code — I build products that solve real problems."</i> ✨
+</p>
