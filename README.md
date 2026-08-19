@@ -98,17 +98,17 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 GitHub Analytics & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-3945&show_icons=true&theme=tokyonight&hide_border=true&title_color=818cf8&icon_color=c084fc" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-3945&theme=tokyonight&hide_border=true&ring=818cf8&fire=c084fc" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ayush-3945&show_icons=true&theme=tokyonight&hide_border=true&title_color=818cf8&icon_color=c084fc&bg_color=06070a" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=ayush-3945&theme=tokyonight&hide_border=true&ring=818cf8&fire=c084fc&background=06070a" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-3945&layout=compact&theme=tokyonight&hide_border=true&title_color=818cf8" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayush-3945&layout=compact&theme=tokyonight&hide_border=true&title_color=818cf8&bg_color=06070a" width="49%" />
 </div>
 
 ---
