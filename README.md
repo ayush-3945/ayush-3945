@@ -35,9 +35,9 @@
 
 ### 💫 About Me
 
-- 🔭 Currently building **SmartIssue AI** — an Autonomous Issue Routing Platform powered by Google Gemini
+- 🔭 Currently building **Dispatch OS** — an Autonomous Incident Triage & Operations Platform
 - 🌱 Learning **System Design, Machine Learning & Cloud Architecture**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Gemini AI, REST APIs**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Gemini AI, WebSockets**
 - ⚡ Fun fact: **I mass-produce ideas and ship them as real products 🚀**
 
 ---
@@ -74,23 +74,26 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"><b>🤖 SmartIssue AI</b></h3>
+      <h3 align="center"><b>⚡ Dispatch OS</b></h3>
       <p align="center">
-        Enterprise-grade Autonomous Issue Classification & Real-Time Resolution Platform powered by <b>Google Gemini 1.5 Flash</b>.
+        Enterprise-grade Autonomous Incident Triage & Operations Platform with 7-Day Predictive Surge Intelligence.
       </p>
       <p align="center">
-        <a href="https://github.com/ayush-3945/ai-smart-issue-routing">
-          <img src="https://img.shields.io/badge/View_Repository-818CF8?style=for-the-badge&logo=github&logoColor=white" />
+        <a href="https://ai-smart-issue-routing-jbb8.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_App-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <a href="https://github.com/ayush-3945/ai-smart-issue-routing" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Code-18181B?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%">
       <ul>
-        <li>⚡ AI Auto-Categorization (IT, HR, Finance, Ops)</li>
-        <li>📊 Live Recharts Analytics Dashboard</li>
-        <li>📥 1-Click CSV Report Exporter</li>
-        <li>🎨 Glassmorphic Dark & Light Theme</li>
-        <li>🔐 JWT + Refresh Token Security</li>
+        <li>⚡ Autonomous AI Routing (IT, HR, Finance, Ops)</li>
+        <li>🔮 7-Day Predictive Surge Capacity Forecasting</li>
+        <li>🔌 Bi-Directional WebSocket Sync (Socket.io)</li>
+        <li>🌐 Bilingual Diagnostic Briefs (English ⇋ Hindi)</li>
+        <li>🔐 Stateless JWT Token Rotation Security</li>
       </ul>
     </td>
   </tr>
