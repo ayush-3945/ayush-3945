@@ -1,77 +1,22 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,9400D3&height=200&section=header&text=Hi,%20I'm%20Ayush!%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50" width="100%" />
-</div>
+<h1 align="center">Hi there, I'm Ayush Pandey 👋</h1> <h3 align="center">Full-Stack Developer | Building + Learning + Shipping</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/ayush-kumar-pandey-a6880532b/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp;&nbsp; <a href="https://x.com/PandeyAyush2304"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> &nbsp;&nbsp; <a href="https://www.instagram.com/ayushpandey070/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> &nbsp;&nbsp; <a href="mailto:ayushpandey23042006@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+🚀 About Me
+💻 I build full-stack web applications using the MERN stack
+🌱 Currently sharpening my skills in React, Node.js, and MongoDB
+⚡ I enjoy turning ideas into clean, working products
+📫 Reach me at ayushpandey23042006@gmail.com
+🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+%26+Next.js+Developer;Passionate+about+AI+Integrations;Always+Learning+%26+Building!" alt="Typing SVG" />
-</div>
+Frontend
 
-<div align="center">
-  <a href="https://linkedin.com/in/ayushkumarpandey"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</div>
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> </p>
 
-<br><br>
+Backend & Database
 
-### 👨‍💻 About Me
-I'm a **Computer Science Student** and a passionate **Full-Stack Developer** from India. I love transforming complex problems into elegant, real-world software solutions. Currently, I'm deep diving into modern web architectures and exploring the fascinating world of Artificial Intelligence.
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> </p>
 
-- 🚀 **Currently building:** Progressive Web Apps (PWAs) & AI-driven interfaces
-- 🧠 **Currently learning:** Advanced Data Structures, Next.js, and Cloud Deployment
-- 💻 **Hackathons:** Actively participate in coding competitions and hackathons
-- ⚡ **Fun fact:** I can debug code in my sleep (or at least I dream about it!)
+Tools & Deployment
 
-<br>
-
-### 🛠️ Tech Stack & Tools
-<div align="center">
-  <p><strong>Languages & Frameworks</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,react,tailwind,vite,nodejs,express,mongodb" />
-  </a>
-  <br><br>
-  <p><strong>Tools & Deployment</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker,figma" />
-  </a>
-</div>
-
-<br><br>
-
-### 🏆 Featured Project: CoalDarpan
-An AI-driven digital governance web app designed for the mining sector.
-- **Tech:** React, Node.js, Express, MongoDB, Socket.io, Gemini AI API
-- **Highlights:** Built a robust offline-sync queue mechanism for zero-connectivity environments, automated hazard triage using Google Gemini, and integrated real-time websocket dashboards.
-- 🔗 [Check out the Repository](https://github.com/ayush-3945/ai-smart-issue-routing)
-
-<br><br>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-3945&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-3945&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</div>
-
-<br>
-
-### 📈 Top Languages & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-3945&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-3945&bg_color=0D1117&color=8A2BE2&line=4B0082&point=ffffff&hide_border=true" width="48%" />
-</div>
-
-<br><br>
-
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/ayush-3945/ayush-3945/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
-<hr>
-<div align="center">
-  <p><i>Made with ❤️ by Ayush Kumar Pandey</i></p>
-</div>
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </p>
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayush-3945&show_icons=true&theme=react&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-3945&layout=compact&theme=react&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-3945&theme=react&hide_border=true" /> </p>
+<p align="center">⭐️ From <a href="https://github.com/ayush-3945">ayush-3945</a> — thanks for stopping by!</p>
