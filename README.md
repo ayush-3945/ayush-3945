@@ -1,19 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,9400D3&height=250&section=header&text=Software%20Engineer&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Building%20Scalable%20Systems&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,9400D3&height=250&section=header&text=Ayush%20Kumar%20Pandey&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+Enterprise-Grade+Solutions;Full-Stack+Engineering+%7C+AI%2FML;Passionate+about+Scalable+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Passionate+about+Web+Development;MERN+Stack+%7C+AI+Integrations;Always+Learning+%26+Building" alt="Typing SVG" />
 
 <br>
 
 <img src="https://img.shields.io/badge/B.Tech-Computer_Science-4B0082?style=for-the-badge&logo=mortar-board&logoColor=white" />
 <img src="https://img.shields.io/badge/Location-India-4B0082?style=for-the-badge&logo=google-maps&logoColor=white" />
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-4B0082?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-4B0082?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/ayush-3945"><img src="https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br>
 
@@ -31,11 +30,11 @@
   <h2> 👨‍💻 About Me </h2>
 </div>
 
-I am a results-driven **Software Engineer** with a strong product engineering mindset, specializing in building highly scalable, distributed systems. With a robust foundation in **Full-Stack Development** and a deep interest in **AI/ML integration**, I focus on crafting enterprise-grade solutions that bridge complex engineering with seamless user experiences. I thrive in high-paced environments, continuously optimizing system performance, security, and architecture.
+I am a passionate **Computer Science Student** and **Full-Stack Developer** who loves building web applications that solve real-world problems. I specialize in the **MERN stack** (MongoDB, Express, React, Node.js) and enjoy experimenting with AI integrations to make software smarter. I am always eager to learn new technologies, participate in hackathons, and collaborate on interesting projects.
 
-- 🔭 **Focus:** Scalable Architectures, Distributed Systems, AI/ML Pipelines, Cloud Native Solutions
-- 💡 **Mindset:** Code is a tool; solving real-world problems efficiently is the ultimate goal.
-- 🤝 **Open To:** Senior Software Engineer roles, Open Source contributions, and challenging technical collaborations.
+- 🔭 **Focus:** Frontend UI/UX, Backend APIs, Progressive Web Apps (PWAs)
+- 💡 **Mindset:** Learning by building and constantly improving my code quality.
+- 🤝 **Open To:** Internships, Junior Developer Roles, and Hackathon Teams.
 
 <br>
 <hr>
@@ -50,8 +49,8 @@ I am a results-driven **Software Engineer** with a strong product engineering mi
 **Languages**
 <br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-00273F?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 <br><br>
@@ -59,9 +58,8 @@ I am a results-driven **Software Engineer** with a strong product engineering mi
 **Frontend**
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 
 <br><br>
 
@@ -70,34 +68,17 @@ I am a results-driven **Software Engineer** with a strong product engineering mi
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
 <br><br>
 
-**Cloud, DevOps & Tooling**
+**Tools & Others**
 <br>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 
 </div>
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-  <h2> 🤖 AI / ML Expertise </h2>
-</div>
-
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Large Language Models (LLMs)** | Advanced | Integration of OpenAI/Gemini APIs for contextual analysis and intelligent routing. |
-| **Predictive Analytics** | Intermediate | Using analytical engines to determine risk factors and flag anomalies in data streams. |
-| **Computer Vision** | Intermediate | Implementing image processing and detection pipelines using Python and modern libraries. |
-| **AI Workflows** | Advanced | Designing resilient AI-powered backend pipelines and automated decision-making systems. |
 
 <br>
 <hr>
@@ -108,39 +89,32 @@ I am a results-driven **Software Engineer** with a strong product engineering mi
 </div>
 
 <details>
-<summary><b>Enterprise Microservices Architecture</b></summary>
+<summary><b>CoalDarpan - Smart Issue Routing System</b></summary>
 <br>
-A highly scalable, distributed backend system designed to handle heavy concurrent traffic with zero downtime.
+An AI-driven digital governance and regulatory compliance web application built during a national hackathon.
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Node.js, Express, Docker, Redis, PostgreSQL |
-| **Scale** | Designed to support 10k+ concurrent users with efficient load balancing. |
-| **Performance** | Sub-50ms API response times achieved via Redis caching strategies. |
-| **Security** | Implemented OAuth2.0, rate limiting, and robust input sanitization. |
-| **Impact** | Streamlined backend operations and reduced server latency by 40%. |
-| **Repository** | [View Source Code](#) |
+| **Stack** | React, Node.js, Express, MongoDB, Socket.io, Gemini AI |
+| **Features** | Real-time dashboard, AI hazard detection, Offline reporting (PWA) |
+| **Role** | Lead Developer |
+| **Repository** | [View Source Code](https://github.com/ayush-3945/ai-smart-issue-routing) |
 
-**Professional Explanation:**
-Engineered a comprehensive microservices-based architecture utilizing Docker for containerization and Redis for high-speed caching. Focused heavily on minimizing database bottlenecks and ensuring high availability across all critical service endpoints.
+**Project Explanation:**
+Built a full-stack Progressive Web App (PWA) designed to work in low-connectivity areas. Integrated Google's Gemini AI to automatically analyze hazard photos and route them to the correct department. Used Socket.io for real-time notifications on the admin dashboard.
 </details>
 
 <details>
-<summary><b>AI-Powered Analytics Dashboard</b></summary>
+<summary><b>Personal Portfolio Website</b></summary>
 <br>
-A comprehensive full-stack platform integrating machine learning models to provide real-time business intelligence.
+A responsive portfolio website to showcase my skills, projects, and hackathon achievements.
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Next.js, React, Python, FastAPI, MongoDB |
-| **Scale** | Processes and visualizes gigabytes of streaming data in real-time. |
-| **Performance** | Optimized frontend rendering with Server-Side Rendering (SSR) and efficient state management. |
-| **Security** | JWT-based role access control and secure API gateways. |
-| **Impact** | Enabled data-driven decision making through automated report generation. |
+| **Stack** | HTML, CSS, JavaScript, React |
+| **Features** | Dark mode, responsive design, contact form |
 | **Repository** | [View Source Code](#) |
 
-**Professional Explanation:**
-Developed a seamless data visualization pipeline connecting a high-performance Python FastAPI backend with a responsive Next.js frontend. Integrated predictive ML models to generate automated insights, significantly reducing manual data analysis overhead.
 </details>
 
 <br>
@@ -148,48 +122,13 @@ Developed a seamless data visualization pipeline connecting a high-performance P
 <br>
 
 <div align="center">
-  <h2> 💼 Experience </h2>
+  <h2> 🏆 Achievements & Experience </h2>
 </div>
 
-**Software Engineer** | *Leading Tech Solutions*  
-*Jan 2024 - Present*  
-- Architected and deployed scalable full-stack applications serving thousands of daily active users.
-- Optimized database queries and implemented caching layers, reducing API response times.
-- `React.js` `Node.js` `AWS` `PostgreSQL`
-
-**Backend Developer Intern** | *Innovative Startups Inc.*  
-*Jun 2023 - Dec 2023*  
-- Developed robust RESTful APIs and integrated third-party payment gateways.
-- Wrote extensive unit tests ensuring 90%+ code coverage for critical modules.
-- `Express.js` `MongoDB` `Jest` `Docker`
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-  <h2> 🏆 Achievements </h2>
-</div>
-
-| Recognition | Details |
+| Role / Achievement | Details |
 | :--- | :--- |
-| **Open Source Contributor** | Merged multiple PRs in prominent open-source repositories, improving core functionalities. |
-| **Hackathon Finalist** | Recognized for building highly scalable, innovative technical solutions under extreme time constraints. |
-
-<br>
-<hr>
-<br>
-
-<div align="center">
-  <h2> 📜 Certifications </h2>
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/AWS-Certified_Developer-4B0082?style=for-the-badge&logo=amazon-aws" />
-<img src="https://img.shields.io/badge/Oracle-Java_SE-4B0082?style=for-the-badge&logo=oracle" />
-<img src="https://img.shields.io/badge/NPTEL-Data_Structures-4B0082?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cisco-Networking_Basics-4B0082?style=for-the-badge&logo=cisco" />
-</div>
+| **Hackathon Participant** | Competed in intensive 48-hour hackathons, building full-stack solutions under pressure. |
+| **Student Developer** | Actively learning advanced web technologies and building practical projects. |
 
 <br>
 <hr>
@@ -200,10 +139,8 @@ Developed a seamless data visualization pipeline connecting a high-performance P
 </div>
 
 <div align="center">
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Premium_Profile-4B0082?style=for-the-badge&logo=leetcode" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Active_Coder-4B0082?style=for-the-badge&logo=geeksforgeeks" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Star-4B0082?style=for-the-badge&logo=hackerrank" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Advanced-4B0082?style=for-the-badge&logo=codechef" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-4B0082?style=for-the-badge&logo=leetcode" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4B0082?style=for-the-badge&logo=geeksforgeeks" /></a>
 </div>
 
 <br>
@@ -228,18 +165,6 @@ Developed a seamless data visualization pipeline connecting a high-performance P
 <br>
 
 <div align="center">
-  <h2> 🏆 GitHub Trophies </h2>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush-3945&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
-</div>
-
-<br>
-<hr>
-<br>
-
-<div align="center">
   <h2> 📈 Contribution Activity </h2>
 </div>
 
@@ -252,26 +177,13 @@ Developed a seamless data visualization pipeline connecting a high-performance P
 <br>
 
 <div align="center">
-  <h2> 🐍 Contribution Snake </h2>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ayush-3945/ayush-3945/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
-<hr>
-<br>
-
-<div align="center">
   <h2> 🎯 Current Focus </h2>
 </div>
 
 ```yaml
-learning: [ "Advanced Cloud Architecture", "Deep Learning Models" ]
-building: [ "Enterprise Compliance Ecosystems", "AI Agents" ]
-exploring: [ "Web3 / Blockchain for Audit Trails" ]
-open_to: [ "Software Engineering Roles", "Open Source Collaborations" ]
+learning: [ "Data Structures and Algorithms", "Advanced React" ]
+building: [ "Full-Stack Web Apps", "Hackathon Projects" ]
+open_to: [ "Internships", "Collaborations" ]
 ```
 
 <br>
@@ -285,8 +197,7 @@ open_to: [ "Software Engineering Roles", "Open Source Collaborations" ]
 <div align="center">
 <a href="mailto:your.email@example.com">Gmail</a> • 
 <a href="#">LinkedIn</a> • 
-<a href="https://github.com/ayush-3945">GitHub</a> • 
-<a href="#">Portfolio</a>
+<a href="https://github.com/ayush-3945">GitHub</a>
 </div>
 
 <br>
@@ -294,7 +205,7 @@ open_to: [ "Software Engineering Roles", "Open Source Collaborations" ]
 <br>
 
 <div align="center">
-  <i>"Writing code that scales, builds systems that last."</i>
+  <i>"Always learning, always building."</i>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,9400D3&height=100&section=footer" width="100%" />
