@@ -280,8 +280,6 @@ If you like my work,
 <div align="center">
 
 | 🏆 | Achievement |
-|:--:|------------|
-| 🥇 | Top 50 Selection (National Hackathon) |
 | ⭐ | CodeChef 3-Star |
 | 💻 | IBM PBEL Virtual Internship |
 | 📢 | PR Head (CodeChef ABESEC Chapter) |
