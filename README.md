@@ -1,4 +1,4 @@
-<div align="center">
+z<div align="center">
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=8A2BE2,4B0082,9400D3&text=AYUSH%20KUMAR%20PANDEY&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Enthusiast%20|%20Problem%20Solver&descAlignY=60"/>
 </p>
@@ -227,14 +227,6 @@ React.js • Node.js • Gemini AI • MongoDB
 </div>
 
 ---
-
-# 💡 Quote
-
-<div align="center">
-
-> "If someone is trying to lose you, help them."
-
-</div>
 
 ---
 
