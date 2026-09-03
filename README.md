@@ -1,33 +1,35 @@
 <div align="center">
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=8A2BE2,4B0082,9400D3&text=AYUSH%20KUMAR%20PANDEY&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20MERN%20&%20AI%20Integrations%20|%20Backend%20Engineer&descAlignY=60"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=8A2BE2,4B0082,1A0B2E&text=AYUSH%20KUMAR%20PANDEY&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20MERN%20Developer%20%7C%20AI%20Systems%20%7C%20Competitive%20Programmer&descAlignY=62&descSize=18"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1200&color=9400D3&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;Building+Production-Ready+AI+SaaS;High-Performance+Backend+Architectures;Solving+Problems+at+Scale"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Building+Production-Grade+MERN+Applications;Integrating+Google+Gemini+AI+Workflows;3-Star+CodeChef+Problem+Solver;Architecting+Scalable+Backend+Systems"/>
 
 <br><br>
 
-<!-- QUICK ACTION HERO BUTTONS -->
-<a href="https://linkedin.com/in/ayush-kumar-pandey-a6880532b" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ayushpandey23042006@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/ayush-3945" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://www.codechef.com/users/ayush_3945" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef_3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/ayush-kumar-pandey-a6880532b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ayushpandey23042006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/ayush-3945" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/ayush_3945" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
 
-<br><br>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=ayush-3945&label=Profile%20Views&color=8A2BE2&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/ayush-3945?style=flat-square&color=8A2BE2"/>
-<img src="https://img.shields.io/github/stars/ayush-3945?style=flat-square&color=8A2BE2"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayush-3945&label=Profile%20Views&color=8A2BE2&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/ayush-3945?style=flat-square&color=8A2BE2"/>
+  <img src="https://img.shields.io/github/stars/ayush-3945?style=flat-square&color=8A2BE2"/>
 </p>
 
 </div>
