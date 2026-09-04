@@ -153,7 +153,7 @@ Philosophy:
 <a href="https://github.com/ayush-3945/Aptly">
   <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://github.com/ayush-3945/Aptly">
+<a href="https://aptly-ai.vercel.app">
   <img src="https://img.shields.io/badge/Live_Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -182,6 +182,18 @@ Philosophy:
 
 <h4>DevOps, Tooling & Testing</h4>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vercel&perline=8"/>
+
+</div>
+
+
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ayush-3945&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" />
 
 </div>
 
