@@ -187,56 +187,6 @@ Philosophy:
 
 ---
 
-# 📊 GitHub Analytics & Code Activity
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td width="50%">
-  <img src="https://streak-stats.demolab.com?user=ayush-3945&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="100%"/>
-</td>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-3945&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2" width="100%"/>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-3945&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🏅 Achievements & Verified Credentials
-
-<div align="center">
-
-| Status | Credential | Domain | Issuer |
-|:---:|---|---|---|
-| ⭐⭐⭐ | **3-Star Competitive Programmer** | Algorithms & Problem Solving | CodeChef |
-| 🎓 | **Enterprise Virtual Internship** | Cloud & Systems Architecture | IBM PBEL |
-| 📢 | **PR Head** | Technical Community Leadership | CodeChef ABESEC Chapter |
-| ⚡ | **400+ Algorithmic Challenges** | Data Structures & Algorithms | LeetCode & CodeChef |
-
-<br>
-
-<a href="https://leetcode.com/u/ayush-3945" target="_blank">
-  <img src="https://img.shields.io/badge/Verified_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://www.codechef.com/users/ayush_3945" target="_blank">
-  <img src="https://img.shields.io/badge/Verified_CodeChef-8A2BE2?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/ayush-kumar-pandey-a6880532b" target="_blank">
-  <img src="https://img.shields.io/badge/IBM_Internship_Verified-006699?style=for-the-badge&logo=ibm&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Build Something Exceptional Together!
