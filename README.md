@@ -9,19 +9,23 @@
 <br><br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayush-kumar-pandey-a6880532b" target="_blank">
+  <a href="https://www.linkedin.com/in/ayush-kumar-pandey-a6880532b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/PandeyAyush2304" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:ayushpandey23042006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/ayush-3945" target="_blank">
+  <a href="https://leetcode.com/u/ayush_pandey23/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   &nbsp;
-  <a href="https://www.codechef.com/users/ayush_3945" target="_blank">
+  <a href="https://www.codechef.com/users/ayush_pandey23" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
@@ -145,8 +149,8 @@ Philosophy:
 ### 📝 Aptly — AI Applicant Tracking System (ATS)
 *Intelligent recruitment platform replacing blind keyword filters with semantic resume evaluation.*
 
-- ⚡ **Key Engineering:** Automated PDF text extraction (`pdf-parse`), structured JSON skill-gap analysis, and recruiter ATS Kanban pipeline.
-- 🛠️ **Stack:** React.js • Node.js • Gemini AI • MongoDB • Multer
+- ⚡ **Key Engineering:** Automated PDF text extraction (`pdf-parse`), structured JSON skill-gap analysis, Resend transactional notifications, and recruiter ATS Kanban pipeline.
+- 🛠️ **Stack:** React.js • Node.js • Gemini AI • MongoDB • Resend • Multer
 
 <br>
 
@@ -185,8 +189,6 @@ Philosophy:
 
 </div>
 
-
-
 ---
 
 # 📊 GitHub Stats
@@ -207,7 +209,7 @@ Whether you're looking for a **Full-Stack Engineer**, **Backend Specialist**, or
 <a href="mailto:ayushpandey23042006@gmail.com">
   <img src="https://img.shields.io/badge/Get_In_Touch-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/ayush-kumar-pandey-a6880532b" target="_blank">
+<a href="https://www.linkedin.com/in/ayush-kumar-pandey-a6880532b/" target="_blank">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
